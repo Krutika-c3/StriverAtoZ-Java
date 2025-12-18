@@ -1,4 +1,4 @@
-package com.dsa.StriverAtoZ.step2;
+package com.dsa.StriverAtoZ.step2.sorting;
 
 import java.util.ArrayList;
 import java.util.List;
