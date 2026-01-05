@@ -2,7 +2,7 @@ package com.dsa.striver_a_to_z.step2.array;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MajorityElement {
+public class MajorityElementN2 {
 
     // =========================================================
     // 1. Brute Force Approach
